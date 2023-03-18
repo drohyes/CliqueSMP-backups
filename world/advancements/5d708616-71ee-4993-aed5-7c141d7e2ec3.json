@@ -1,0 +1,343 @@
+{
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:orchard": "2023-03-18 16:47:40 -0600",
+      "byg:aspen_forest": "2023-03-18 16:46:09 -0600"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2023-03-18 16:50:06 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-03-18 16:47:12 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2023-03-18 16:45:52 -0600",
+      "minecraft:beach": "2023-03-18 16:59:23 -0600",
+      "minecraft:dark_forest": "2023-03-18 16:50:49 -0600",
+      "minecraft:river": "2023-03-18 16:47:38 -0600",
+      "minecraft:cold_ocean": "2023-03-18 16:51:10 -0600",
+      "minecraft:forest": "2023-03-18 16:47:27 -0600",
+      "minecraft:ocean": "2023-03-18 16:46:10 -0600",
+      "minecraft:old_growth_birch_forest": "2023-03-18 16:50:48 -0600",
+      "minecraft:meadow": "2023-03-18 16:47:28 -0600",
+      "minecraft:plains": "2023-03-18 16:47:39 -0600"
+    },
+    "done": false
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-03-18 16:47:12 -0600"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2023-03-18 16:47:05 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-03-18 16:49:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-03-18 16:49:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-03-18 16:49:45 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "spinach_seed": "2023-03-18 16:47:05 -0600"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_birch": "2023-03-18 16:52:48 -0600"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-03-18 16:49:45 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-03-18 16:49:45 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "croptopia:recipes/leafy_salad": {
+    "criteria": {
+      "has_spinach": "2023-03-18 16:47:05 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-03-18 16:49:45 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/metal": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/spinach_seed": {
+    "criteria": {
+      "has_spinach": "2023-03-18 16:47:05 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2023-03-18 16:46:12 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/mangrove": {
+    "criteria": {
+      "has_planks": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-03-18 16:49:45 -0600"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "spinach_seed": "2023-03-18 16:47:05 -0600"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2023-03-18 16:45:51 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
